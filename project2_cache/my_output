@@ -1,0 +1,16 @@
+Cache Configuration:
+-------------------------------------
+Capacity: 1024B
+Associativity: 8way
+Block Size: 8B
+
+Cache Stat:
+-------------------------------------
+Total reads: 12
+Total writes: 7
+Write-backs: 0
+Read hits: 6
+Write hits: 7
+Read misses: 6
+Write misses: 0
+
