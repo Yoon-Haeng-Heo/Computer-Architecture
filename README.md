@@ -1,3 +1,5 @@
 # Computer-Architecture
-This is an H1
-=============
+#### 2 project
+
+1. Make Assembler
+2. Implement Cache 
